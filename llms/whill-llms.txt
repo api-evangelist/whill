@@ -1,0 +1,24 @@
+# WHILL
+
+> WHILL, Inc. designs and manufactures enhanced personal mobility solutions — electric power chairs and mobility scooters (Model C2, Model F, Modo Breeze ultralight wheelchair, and Model R three- and four-wheel scooters) — and operates an autonomous mobility service that has completed over 700,000 rides worldwide. This is a consumer hardware and mobility-service company; as of this writing it publishes no public developer API, SDK, or developer portal.
+
+## About
+- [WHILL — Company Website](https://whill.inc): Products, autonomous mobility service, company overview.
+- [Blog](https://whill.inc/us/blog/): Company and product blog.
+- [News](https://whill.inc/us/news/): Press and company news.
+
+## Products
+- [Product Literature](https://whill.inc/us/product-literature/): Spec sheets and manuals for power chairs and scooters.
+- [Mobile App](https://whill.inc/us/app/): Companion mobile app for WHILL devices.
+
+## Support
+- [Customer Support](https://whill.inc/us/customer-support/): Support channels and contact.
+- [FAQs](https://whill.inc/us/faq/): Frequently asked questions.
+- [Warranty Policy](https://whill.inc/us/warranty-policy/): Product warranty terms.
+
+## Legal
+- [Privacy Policy](https://whill.inc/us/privacy-policy/): Privacy policy.
+- [Terms of Use](https://whill.inc/us/terms/): Terms of use.
+
+## Developer surface
+No public developer API, OpenAPI/AsyncAPI specification, SDK, CLI, MCP server, or /.well-known discovery surface was found (both /.well-known/security.txt and /llms.txt return HTTP 404 as of 2026-07-21). This profile is maintained in the API Evangelist network as a company record; it will be updated if WHILL publishes a developer program.

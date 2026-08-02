@@ -1,7 +1,28 @@
 aid: whill
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/whill.png
 name: Whill
-description: Whill is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  WHILL, Inc. designs and manufactures enhanced personal mobility solutions —
+  electric power chairs and mobility scooters, including the Model C2, Model F,
+  the Modo Breeze ultralight foldable wheelchair, and the Model R three- and
+  four-wheel scooters — and operates an autonomous personal mobility service
+  that has completed over 700,000 rides worldwide across airports and other
+  venues. WHILL was surfaced as a portfolio company of 500 Global and added to
+  the API Evangelist network. As of this writing it is a consumer hardware and
+  mobility-service company and publishes no public developer API, SDK, or
+  developer portal; this profile is maintained as a company record and will be
+  enriched if WHILL launches a developer program.
 url: https://raw.githubusercontent.com/api-evangelist/whill/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Mobility
+- Personal Mobility
+- Wheelchairs
+- Mobility Scooters
+- Autonomous Vehicles
+- Hardware
+- Healthcare
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,20 @@ maintainers:
 common:
 - type: Website
   url: https://whill.inc
+- type: Blog
+  url: https://whill.inc/us/blog/
+- type: Support
+  url: https://whill.inc/us/customer-support/
+- type: PrivacyPolicy
+  url: https://whill.inc/us/privacy-policy/
+- type: TermsOfService
+  url: https://whill.inc/us/terms/
+- type: DomainSecurity
+  url: security/whill-domain-security.yml
+- type: LLMsTxt
+  url: llms/whill-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
